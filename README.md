@@ -12,7 +12,7 @@ I am a Ph.D. candidate in Materials Science and Engineering working on material 
 *   🤝  I'm open to collaborating on Projects involving use of ML/DL/multi-objective optimization for novel material design and development
 *   ⚡  I am a photography enthusiast and I love to do Nature, Portrait, and Landscape Photography
 
-<a href="https://www.twitter.com/ShaktiPadhy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/ShaktiPadhy?logo=twitter&style=for-the-badge&color=10b981&labelColor=ffffff" /></a>
+<a href="https://www.twitter.com/ShaktiPadhy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/ShaktiPadhy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=27272a" /></a>
 
 ### Skills
 
