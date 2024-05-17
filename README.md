@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist + Materials Scientist
 ------------------------------------
 
-I am a Ph.D. candidate in Materials Science and Engineering working on material innovation in an accelerated way using machine learning, deep learning, multi-objective optimization, and high-throughput experiments.
+I am a Research Fellow at Nanyang Technological University working on material innovation in an accelerated way using machine learning, deep learning, multi-objective optimization, and high-throughput experiments.
 
 *   🌍  I'm based in Singapore
 *   ✉️  You can contact me at [padhy.shaktiprasad@gmail.com](mailto:padhy.shaktiprasad@gmail.com)
